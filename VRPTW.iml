@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module type="JAVA_MODULE" version="4">
+  <component name="EclipseModuleManager">
+    <libelement value="file://C:/Program Files/IBM/ILOG/CPLEX_Studio1263/cplex/lib/cplex.jar" />
+    <src_description expected_position="0">
+      <src_folder value="file://$MODULE_DIR$/src" expected_position="0" />
+    </src_description>
+  </component>
+  <component name="NewModuleRootManager">
+    <output url="file://$MODULE_DIR$/bin" />
+    <exclude-output />
+    <content url="file://$MODULE_DIR$">
+      <sourceFolder url="file://$MODULE_DIR$/src" isTestSource="false" />
+    </content>
+    <orderEntry type="sourceFolder" forTests="false" />
+    <orderEntry type="inheritedJdk" />
+    <orderEntry type="module-library" exported="">
+      <library name="cplex.jar">
+        <CLASSES>
+          <root url="file://C:/Program Files/IBM/ILOG/CPLEX_Studio1263/cplex/lib/cplex.jar" />
+          <root url="file://F:/cplex/cplex/lib" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+        <jarDirectory url="file://F:/cplex/cplex/lib" recursive="false" />
+      </library>
+    </orderEntry>
+  </component>
+</module>
